@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/fc86jie/event-hub/compare/v1.1.0...v1.2.0) (2022-07-13)
+
+
+### Features
+
+* change ([aa9e5b1](https://github.com/fc86jie/event-hub/commit/aa9e5b136f8031865ceeab3c7387796436c26b1b))
+
 # [1.1.0](https://github.com/fc86jie/event-hub/compare/v1.0.0...v1.1.0) (2022-07-13)
 
 
