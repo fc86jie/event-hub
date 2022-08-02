@@ -1,7 +1,7 @@
 /*
- * @Author: wangrenjie@zenmen.com
+ * @Author: wangrenjie86@gmail.com
  * @Date: 2022-07-12 18:35:05
- * @LastEditors: wangrenjie@zenmen.com
+ * @LastEditors: wangrenjie86@gmail.com
  * @LastEditTime: 2022-07-13 08:45:56
  * @FilePath: \event-hub\__tests__\sum.spec.ts
  * @Description:
